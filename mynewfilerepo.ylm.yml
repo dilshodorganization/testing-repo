@@ -1,1 +1,6 @@
 mynewfilerepo.yml
+add new InstancePort: 
+InstanceProtocol: HTTP|HTTPS|TCP|SSL
+LoadBalancerPort: 
+Protocol: HTTP|HTTPS|TCP|SSL
+SSLCertificateId: 
